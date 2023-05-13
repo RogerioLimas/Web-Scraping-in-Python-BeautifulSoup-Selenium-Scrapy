@@ -1,0 +1,761 @@
+Date,Home Team,Score,Away Team
+09-04-2022,AC Goianiense,1 - 1,Flamengo RJ
+17-04-2022,RB Bragantino,4 - 0,AC Goianiense
+24-04-2022,AC Goianiense,1 - 1,Botafogo FR
+30-04-2022,Cuiaba,1 - 1,AC Goianiense
+08-05-2022,AC Goianiense,0 - 1,Goiás EC
+14-05-2022,Atletico Mineiro,2 - 0,AC Goianiense
+21-05-2022,AC Goianiense,2 - 0,Coritiba FBC
+30-05-2022,Internacional RS,1 - 1,AC Goianiense
+04-06-2022,AC Goianiense,0 - 1,Corinthians
+08-06-2022,AC Goianiense,2 - 1,Avai
+11-06-2022,Fluminense FC,0 - 2,AC Goianiense
+16-06-2022,SE Palmeiras,4 - 2,AC Goianiense
+19-06-2022,AC Goianiense,3 - 1,Juventude
+26-06-2022,Ceará SC,1 - 1,AC Goianiense
+03-07-2022,AC Goianiense,1 - 2,Sao Paulo
+10-07-2022,Santos,1 - 0,AC Goianiense
+17-07-2022,AC Goianiense,0 - 1,Fortaleza EC
+20-07-2022,CA Paranaense,4 - 1,AC Goianiense
+24-07-2022,AC Goianiense,0 - 1,America Mineiro
+30-07-2022,Flamengo RJ,4 - 1,AC Goianiense
+06-08-2022,AC Goianiense,2 - 1,RB Bragantino
+14-08-2022,Botafogo FR,0 - 0,AC Goianiense
+21-08-2022,AC Goianiense,1 - 1,Cuiaba
+27-08-2022,Goiás EC,2 - 1,AC Goianiense
+04-09-2022,AC Goianiense,0 - 2,Atletico Mineiro
+11-09-2022,Coritiba FBC,2 - 0,AC Goianiense
+19-09-2022,AC Goianiense,1 - 2,Internacional RS
+28-09-2022,Corinthians,2 - 1,AC Goianiense
+01-10-2022,Avai,1 - 2,AC Goianiense
+05-10-2022,AC Goianiense,3 - 2,Fluminense FC
+10-10-2022,AC Goianiense,1 - 1,SE Palmeiras
+16-10-2022,Juventude,1 - 1,AC Goianiense
+23-10-2022,AC Goianiense,1 - 0,Ceará SC
+27-10-2022,Sao Paulo,2 - 1,AC Goianiense
+02-11-2022,AC Goianiense,2 - 3,Santos
+06-11-2022,Fortaleza EC,1 - 1,AC Goianiense
+10-11-2022,AC Goianiense,1 - 1,CA Paranaense
+13-11-2022,America Mineiro,1 - 1,AC Goianiense
+10-04-2022,Avai,1 - 0,America Mineiro
+16-04-2022,America Mineiro,4 - 1,Juventude
+24-04-2022,Santos,3 - 0,America Mineiro
+30-04-2022,America Mineiro,1 - 0,CA Paranaense
+07-05-2022,Atletico Mineiro,1 - 2,America Mineiro
+15-05-2022,Coritiba FBC,1 - 0,America Mineiro
+22-05-2022,America Mineiro,1 - 1,Botafogo FR
+29-05-2022,Corinthians,1 - 1,America Mineiro
+04-06-2022,America Mineiro,2 - 1,Cuiaba
+08-06-2022,America Mineiro,0 - 2,Ceará SC
+12-06-2022,Sao Paulo,1 - 0,America Mineiro
+16-06-2022,America Mineiro,0 - 0,Fluminense FC
+19-06-2022,Fortaleza EC,1 - 0,America Mineiro
+25-06-2022,Flamengo RJ,3 - 0,America Mineiro
+03-07-2022,America Mineiro,1 - 0,Goiás EC
+11-07-2022,Internacional RS,1 - 0,America Mineiro
+17-07-2022,America Mineiro,0 - 3,RB Bragantino
+21-07-2022,America Mineiro,0 - 1,SE Palmeiras
+24-07-2022,AC Goianiense,0 - 1,America Mineiro
+31-07-2022,America Mineiro,3 - 1,Avai
+06-08-2022,Juventude,0 - 1,America Mineiro
+14-08-2022,America Mineiro,1 - 0,Santos
+21-08-2022,CA Paranaense,1 - 1,America Mineiro
+28-08-2022,America Mineiro,1 - 1,Atletico Mineiro
+03-09-2022,America Mineiro,2 - 0,Coritiba FBC
+11-09-2022,Botafogo FR,0 - 0,America Mineiro
+18-09-2022,America Mineiro,1 - 0,Corinthians
+29-09-2022,Cuiaba,2 - 1,America Mineiro
+01-10-2022,Ceará SC,1 - 2,America Mineiro
+06-10-2022,America Mineiro,1 - 2,Sao Paulo
+09-10-2022,Fluminense FC,0 - 2,America Mineiro
+15-10-2022,America Mineiro,1 - 2,Fortaleza EC
+22-10-2022,America Mineiro,1 - 2,Flamengo RJ
+27-10-2022,Goiás EC,2 - 2,America Mineiro
+02-11-2022,America Mineiro,1 - 0,Internacional RS
+05-11-2022,RB Bragantino,1 - 4,America Mineiro
+10-11-2022,SE Palmeiras,2 - 1,America Mineiro
+13-11-2022,America Mineiro,1 - 1,AC Goianiense
+10-04-2022,Atletico Mineiro,2 - 0,Internacional RS
+17-04-2022,CA Paranaense,0 - 1,Atletico Mineiro
+24-04-2022,Atletico Mineiro,2 - 2,Coritiba FBC
+30-04-2022,Goiás EC,2 - 2,Atletico Mineiro
+07-05-2022,Atletico Mineiro,1 - 2,America Mineiro
+11-05-2022,RB Bragantino,1 - 1,Atletico Mineiro
+14-05-2022,Atletico Mineiro,2 - 0,AC Goianiense
+29-05-2022,Atletico Mineiro,2 - 1,Avai
+05-06-2022,SE Palmeiras,0 - 0,Atletico Mineiro
+09-06-2022,Fluminense FC,5 - 3,Atletico Mineiro
+11-06-2022,Atletico Mineiro,1 - 1,Santos
+15-06-2022,Ceará SC,0 - 0,Atletico Mineiro
+19-06-2022,Atletico Mineiro,2 - 0,Flamengo RJ
+26-06-2022,Atletico Mineiro,3 - 2,Fortaleza EC
+02-07-2022,Juventude,1 - 2,Atletico Mineiro
+10-07-2022,Atletico Mineiro,0 - 0,Sao Paulo
+17-07-2022,Botafogo FR,0 - 1,Atletico Mineiro
+21-07-2022,Cuiaba,1 - 1,Atletico Mineiro
+24-07-2022,Atletico Mineiro,1 - 2,Corinthians
+31-07-2022,Internacional RS,3 - 0,Atletico Mineiro
+07-08-2022,Atletico Mineiro,2 - 3,CA Paranaense
+14-08-2022,Coritiba FBC,0 - 1,Atletico Mineiro
+20-08-2022,Atletico Mineiro,0 - 1,Goiás EC
+28-08-2022,America Mineiro,1 - 1,Atletico Mineiro
+04-09-2022,AC Goianiense,0 - 2,Atletico Mineiro
+07-09-2022,Atletico Mineiro,1 - 1,RB Bragantino
+17-09-2022,Avai,1 - 0,Atletico Mineiro
+29-09-2022,Atletico Mineiro,0 - 1,SE Palmeiras
+01-10-2022,Atletico Mineiro,2 - 0,Fluminense FC
+06-10-2022,Santos,1 - 2,Atletico Mineiro
+09-10-2022,Atletico Mineiro,0 - 0,Ceará SC
+15-10-2022,Flamengo RJ,1 - 0,Atletico Mineiro
+24-10-2022,Fortaleza EC,0 - 0,Atletico Mineiro
+27-10-2022,Atletico Mineiro,1 - 0,Juventude
+02-11-2022,Sao Paulo,2 - 2,Atletico Mineiro
+07-11-2022,Atletico Mineiro,0 - 2,Botafogo FR
+10-11-2022,Atletico Mineiro,3 - 0,Cuiaba
+13-11-2022,Corinthians,0 - 1,Atletico Mineiro
+10-04-2022,Avai,1 - 0,America Mineiro
+16-04-2022,Corinthians,3 - 0,Avai
+25-04-2022,Avai,3 - 2,Goiás EC
+01-05-2022,Internacional RS,0 - 0,Avai
+09-05-2022,Avai,2 - 1,Coritiba FBC
+15-05-2022,Avai,1 - 2,Juventude
+22-05-2022,CA Paranaense,2 - 1,Avai
+29-05-2022,Atletico Mineiro,2 - 1,Avai
+04-06-2022,Avai,1 - 1,Sao Paulo
+08-06-2022,AC Goianiense,2 - 1,Avai
+13-06-2022,Botafogo FR,0 - 1,Avai
+16-06-2022,Avai,3 - 2,Fortaleza EC
+19-06-2022,Fluminense FC,2 - 0,Avai
+26-06-2022,Avai,2 - 2,SE Palmeiras
+03-07-2022,Avai,1 - 2,Cuiaba
+09-07-2022,RB Bragantino,4 - 0,Avai
+16-07-2022,Avai,1 - 0,Santos
+20-07-2022,Ceará SC,1 - 0,Avai
+24-07-2022,Avai,1 - 2,Flamengo RJ
+31-07-2022,America Mineiro,3 - 1,Avai
+06-08-2022,Avai,1 - 1,Corinthians
+13-08-2022,Goiás EC,1 - 1,Avai
+22-08-2022,Avai,0 - 1,Internacional RS
+27-08-2022,Coritiba FBC,1 - 0,Avai
+03-09-2022,Juventude,1 - 1,Avai
+11-09-2022,Avai,1 - 1,CA Paranaense
+17-09-2022,Avai,1 - 0,Atletico Mineiro
+25-09-2022,Sao Paulo,4 - 0,Avai
+01-10-2022,Avai,1 - 2,AC Goianiense
+06-10-2022,Avai,1 - 2,Botafogo FR
+09-10-2022,Fortaleza EC,2 - 0,Avai
+16-10-2022,Avai,0 - 3,Fluminense FC
+23-10-2022,SE Palmeiras,3 - 0,Avai
+27-10-2022,Cuiaba,1 - 0,Avai
+02-11-2022,Avai,1 - 2,RB Bragantino
+05-11-2022,Santos,1 - 1,Avai
+09-11-2022,Avai,2 - 0,Ceará SC
+12-11-2022,Flamengo RJ,1 - 2,Avai
+10-04-2022,Botafogo FR,1 - 3,Corinthians
+17-04-2022,Ceará SC,1 - 3,Botafogo FR
+24-04-2022,AC Goianiense,1 - 1,Botafogo FR
+01-05-2022,Botafogo FR,1 - 1,Juventude
+08-05-2022,Flamengo RJ,0 - 1,Botafogo FR
+15-05-2022,Botafogo FR,3 - 1,Fortaleza EC
+22-05-2022,America Mineiro,1 - 1,Botafogo FR
+29-05-2022,Coritiba FBC,1 - 0,Botafogo FR
+06-06-2022,Botafogo FR,1 - 2,Goiás EC
+09-06-2022,SE Palmeiras,4 - 0,Botafogo FR
+13-06-2022,Botafogo FR,0 - 1,Avai
+16-06-2022,Botafogo FR,1 - 0,Sao Paulo
+19-06-2022,Internacional RS,2 - 3,Botafogo FR
+26-06-2022,Botafogo FR,0 - 1,Fluminense FC
+04-07-2022,RB Bragantino,0 - 1,Botafogo FR
+10-07-2022,Cuiaba,2 - 0,Botafogo FR
+17-07-2022,Botafogo FR,0 - 1,Atletico Mineiro
+21-07-2022,Santos,2 - 0,Botafogo FR
+24-07-2022,Botafogo FR,2 - 0,CA Paranaense
+30-07-2022,Corinthians,1 - 0,Botafogo FR
+06-08-2022,Botafogo FR,1 - 1,Ceará SC
+14-08-2022,Botafogo FR,0 - 0,AC Goianiense
+21-08-2022,Juventude,2 - 2,Botafogo FR
+28-08-2022,Botafogo FR,0 - 1,Flamengo RJ
+04-09-2022,Fortaleza EC,1 - 3,Botafogo FR
+11-09-2022,Botafogo FR,0 - 0,America Mineiro
+17-09-2022,Botafogo FR,2 - 0,Coritiba FBC
+29-09-2022,Goiás EC,0 - 1,Botafogo FR
+03-10-2022,Botafogo FR,1 - 3,SE Palmeiras
+06-10-2022,Avai,1 - 2,Botafogo FR
+09-10-2022,Sao Paulo,0 - 1,Botafogo FR
+16-10-2022,Botafogo FR,0 - 1,Internacional RS
+23-10-2022,Fluminense FC,2 - 2,Botafogo FR
+26-10-2022,Botafogo FR,2 - 1,RB Bragantino
+01-11-2022,Botafogo FR,0 - 2,Cuiaba
+07-11-2022,Atletico Mineiro,0 - 2,Botafogo FR
+10-11-2022,Botafogo FR,3 - 0,Santos
+13-11-2022,CA Paranaense,3 - 0,Botafogo FR
+10-04-2022,Sao Paulo,4 - 0,CA Paranaense
+17-04-2022,CA Paranaense,0 - 1,Atletico Mineiro
+23-04-2022,CA Paranaense,1 - 0,Flamengo RJ
+30-04-2022,America Mineiro,1 - 0,CA Paranaense
+07-05-2022,CA Paranaense,1 - 0,Ceará SC
+15-05-2022,Fluminense FC,2 - 1,CA Paranaense
+22-05-2022,CA Paranaense,2 - 1,Avai
+29-05-2022,Cuiaba,0 - 1,CA Paranaense
+04-06-2022,CA Paranaense,2 - 2,Santos
+08-06-2022,Juventude,1 - 3,CA Paranaense
+12-06-2022,Fortaleza EC,0 - 0,CA Paranaense
+16-06-2022,CA Paranaense,1 - 1,Corinthians
+19-06-2022,Coritiba FBC,0 - 1,CA Paranaense
+25-06-2022,CA Paranaense,4 - 2,RB Bragantino
+03-07-2022,SE Palmeiras,0 - 2,CA Paranaense
+09-07-2022,Goiás EC,2 - 1,CA Paranaense
+16-07-2022,CA Paranaense,0 - 0,Internacional RS
+20-07-2022,CA Paranaense,4 - 1,AC Goianiense
+24-07-2022,Botafogo FR,2 - 0,CA Paranaense
+31-07-2022,CA Paranaense,1 - 0,Sao Paulo
+07-08-2022,Atletico Mineiro,2 - 3,CA Paranaense
+14-08-2022,Flamengo RJ,5 - 0,CA Paranaense
+21-08-2022,CA Paranaense,1 - 1,America Mineiro
+28-08-2022,Ceará SC,0 - 0,CA Paranaense
+03-09-2022,CA Paranaense,1 - 0,Fluminense FC
+11-09-2022,Avai,1 - 1,CA Paranaense
+18-09-2022,CA Paranaense,2 - 2,Cuiaba
+28-09-2022,Santos,2 - 0,CA Paranaense
+01-10-2022,CA Paranaense,2 - 0,Juventude
+05-10-2022,CA Paranaense,1 - 1,Fortaleza EC
+09-10-2022,Corinthians,2 - 1,CA Paranaense
+16-10-2022,CA Paranaense,1 - 0,Coritiba FBC
+22-10-2022,RB Bragantino,4 - 2,CA Paranaense
+26-10-2022,CA Paranaense,1 - 3,SE Palmeiras
+02-11-2022,CA Paranaense,3 - 2,Goiás EC
+06-11-2022,Internacional RS,2 - 0,CA Paranaense
+10-11-2022,AC Goianiense,1 - 1,CA Paranaense
+13-11-2022,CA Paranaense,3 - 0,Botafogo FR
+10-04-2022,SE Palmeiras,2 - 3,Ceará SC
+17-04-2022,Ceará SC,1 - 3,Botafogo FR
+30-04-2022,Ceará SC,0 - 1,RB Bragantino
+07-05-2022,CA Paranaense,1 - 0,Ceará SC
+14-05-2022,Ceará SC,2 - 2,Flamengo RJ
+21-05-2022,Santos,0 - 0,Ceará SC
+28-05-2022,Sao Paulo,2 - 2,Ceará SC
+01-06-2022,Fortaleza EC,0 - 1,Ceará SC
+04-06-2022,Ceará SC,1 - 1,Coritiba FBC
+08-06-2022,America Mineiro,0 - 2,Ceará SC
+12-06-2022,Goiás EC,1 - 1,Ceará SC
+15-06-2022,Ceará SC,0 - 0,Atletico Mineiro
+18-06-2022,Cuiaba,0 - 0,Ceará SC
+26-06-2022,Ceará SC,1 - 1,AC Goianiense
+02-07-2022,Ceará SC,1 - 1,Internacional RS
+09-07-2022,Fluminense FC,2 - 1,Ceará SC
+17-07-2022,Ceará SC,3 - 1,Corinthians
+20-07-2022,Ceará SC,1 - 0,Avai
+24-07-2022,Juventude,1 - 0,Ceará SC
+30-07-2022,Ceará SC,1 - 2,SE Palmeiras
+06-08-2022,Botafogo FR,1 - 1,Ceará SC
+14-08-2022,Ceará SC,0 - 1,Fortaleza EC
+21-08-2022,RB Bragantino,1 - 1,Ceará SC
+28-08-2022,Ceará SC,0 - 0,CA Paranaense
+04-09-2022,Flamengo RJ,1 - 1,Ceará SC
+10-09-2022,Ceará SC,2 - 1,Santos
+18-09-2022,Ceará SC,0 - 2,Sao Paulo
+28-09-2022,Coritiba FBC,1 - 0,Ceará SC
+01-10-2022,Ceará SC,1 - 2,America Mineiro
+05-10-2022,Ceará SC,1 - 1,Goiás EC
+09-10-2022,Atletico Mineiro,0 - 0,Ceará SC
+16-10-2022,Ceará SC,1 - 1,Cuiaba
+23-10-2022,AC Goianiense,1 - 0,Ceará SC
+27-10-2022,Internacional RS,2 - 1,Ceará SC
+31-10-2022,Ceará SC,0 - 1,Fluminense FC
+05-11-2022,Corinthians,1 - 0,Ceará SC
+09-11-2022,Avai,2 - 0,Ceará SC
+13-11-2022,Ceará SC,4 - 1,Juventude
+10-04-2022,Botafogo FR,1 - 3,Corinthians
+16-04-2022,Corinthians,3 - 0,Avai
+23-04-2022,SE Palmeiras,3 - 0,Corinthians
+01-05-2022,Corinthians,1 - 0,Fortaleza EC
+08-05-2022,RB Bragantino,0 - 1,Corinthians
+14-05-2022,Internacional RS,2 - 2,Corinthians
+22-05-2022,Corinthians,1 - 1,Sao Paulo
+29-05-2022,Corinthians,1 - 1,America Mineiro
+04-06-2022,AC Goianiense,0 - 1,Corinthians
+08-06-2022,Cuiaba,1 - 0,Corinthians
+11-06-2022,Corinthians,2 - 0,Juventude
+16-06-2022,CA Paranaense,1 - 1,Corinthians
+19-06-2022,Corinthians,1 - 0,Goiás EC
+25-06-2022,Corinthians,0 - 0,Santos
+02-07-2022,Fluminense FC,4 - 0,Corinthians
+10-07-2022,Corinthians,1 - 0,Flamengo RJ
+17-07-2022,Ceará SC,3 - 1,Corinthians
+21-07-2022,Corinthians,3 - 1,Coritiba FBC
+24-07-2022,Atletico Mineiro,1 - 2,Corinthians
+30-07-2022,Corinthians,1 - 0,Botafogo FR
+06-08-2022,Avai,1 - 1,Corinthians
+13-08-2022,Corinthians,0 - 1,SE Palmeiras
+21-08-2022,Fortaleza EC,1 - 0,Corinthians
+30-08-2022,Corinthians,1 - 0,RB Bragantino
+04-09-2022,Corinthians,2 - 2,Internacional RS
+11-09-2022,Sao Paulo,1 - 1,Corinthians
+18-09-2022,America Mineiro,1 - 0,Corinthians
+28-09-2022,Corinthians,2 - 1,AC Goianiense
+02-10-2022,Corinthians,2 - 0,Cuiaba
+05-10-2022,Juventude,2 - 2,Corinthians
+09-10-2022,Corinthians,2 - 1,CA Paranaense
+22-10-2022,Santos,0 - 1,Corinthians
+27-10-2022,Corinthians,0 - 2,Fluminense FC
+29-10-2022,Goiás EC,0 - 0,Corinthians
+03-11-2022,Flamengo RJ,1 - 2,Corinthians
+05-11-2022,Corinthians,1 - 0,Ceará SC
+09-11-2022,Coritiba FBC,2 - 2,Corinthians
+13-11-2022,Corinthians,0 - 1,Atletico Mineiro
+10-04-2022,Coritiba FBC,3 - 0,Goiás EC
+17-04-2022,Santos,2 - 1,Coritiba FBC
+24-04-2022,Atletico Mineiro,2 - 2,Coritiba FBC
+01-05-2022,Coritiba FBC,3 - 2,Fluminense FC
+09-05-2022,Avai,2 - 1,Coritiba FBC
+15-05-2022,Coritiba FBC,1 - 0,America Mineiro
+21-05-2022,AC Goianiense,2 - 0,Coritiba FBC
+29-05-2022,Coritiba FBC,1 - 0,Botafogo FR
+04-06-2022,Ceará SC,1 - 1,Coritiba FBC
+09-06-2022,Coritiba FBC,1 - 1,Sao Paulo
+12-06-2022,Coritiba FBC,0 - 2,SE Palmeiras
+15-06-2022,RB Bragantino,4 - 2,Coritiba FBC
+19-06-2022,Coritiba FBC,0 - 1,CA Paranaense
+25-06-2022,Internacional RS,3 - 0,Coritiba FBC
+03-07-2022,Coritiba FBC,2 - 1,Fortaleza EC
+10-07-2022,Coritiba FBC,2 - 2,Juventude
+16-07-2022,Flamengo RJ,2 - 0,Coritiba FBC
+21-07-2022,Corinthians,3 - 1,Coritiba FBC
+25-07-2022,Coritiba FBC,1 - 0,Cuiaba
+30-07-2022,Goiás EC,1 - 0,Coritiba FBC
+08-08-2022,Coritiba FBC,1 - 2,Santos
+14-08-2022,Coritiba FBC,0 - 1,Atletico Mineiro
+20-08-2022,Fluminense FC,5 - 2,Coritiba FBC
+27-08-2022,Coritiba FBC,1 - 0,Avai
+03-09-2022,America Mineiro,2 - 0,Coritiba FBC
+11-09-2022,Coritiba FBC,2 - 0,AC Goianiense
+17-09-2022,Botafogo FR,2 - 0,Coritiba FBC
+28-09-2022,Coritiba FBC,1 - 0,Ceará SC
+06-10-2022,SE Palmeiras,4 - 0,Coritiba FBC
+09-10-2022,Coritiba FBC,2 - 1,RB Bragantino
+16-10-2022,CA Paranaense,1 - 0,Coritiba FBC
+20-10-2022,Sao Paulo,3 - 1,Coritiba FBC
+23-10-2022,Coritiba FBC,1 - 1,Internacional RS
+27-10-2022,Fortaleza EC,3 - 1,Coritiba FBC
+02-11-2022,Juventude,0 - 1,Coritiba FBC
+06-11-2022,Coritiba FBC,1 - 0,Flamengo RJ
+09-11-2022,Coritiba FBC,2 - 2,Corinthians
+13-11-2022,Cuiaba,2 - 1,Coritiba FBC
+10-04-2022,Fortaleza EC,0 - 1,Cuiaba
+17-04-2022,Cuiaba,0 - 1,Fluminense FC
+24-04-2022,Juventude,0 - 1,Cuiaba
+30-04-2022,Cuiaba,1 - 1,AC Goianiense
+08-05-2022,Santos,4 - 1,Cuiaba
+15-05-2022,Sao Paulo,2 - 1,Cuiaba
+22-05-2022,Cuiaba,1 - 1,Internacional RS
+29-05-2022,Cuiaba,0 - 1,CA Paranaense
+04-06-2022,America Mineiro,2 - 1,Cuiaba
+08-06-2022,Cuiaba,1 - 0,Corinthians
+11-06-2022,Cuiaba,1 - 1,RB Bragantino
+15-06-2022,Flamengo RJ,2 - 0,Cuiaba
+18-06-2022,Cuiaba,0 - 0,Ceará SC
+26-06-2022,Goiás EC,1 - 0,Cuiaba
+03-07-2022,Avai,1 - 2,Cuiaba
+10-07-2022,Cuiaba,2 - 0,Botafogo FR
+18-07-2022,SE Palmeiras,1 - 0,Cuiaba
+21-07-2022,Cuiaba,1 - 1,Atletico Mineiro
+25-07-2022,Coritiba FBC,1 - 0,Cuiaba
+31-07-2022,Cuiaba,0 - 1,Fortaleza EC
+07-08-2022,Fluminense FC,1 - 0,Cuiaba
+13-08-2022,Cuiaba,1 - 0,Juventude
+21-08-2022,AC Goianiense,1 - 1,Cuiaba
+28-08-2022,Cuiaba,0 - 0,Santos
+04-09-2022,Cuiaba,1 - 1,Sao Paulo
+10-09-2022,Internacional RS,1 - 0,Cuiaba
+18-09-2022,CA Paranaense,2 - 2,Cuiaba
+29-09-2022,Cuiaba,2 - 1,America Mineiro
+02-10-2022,Corinthians,2 - 0,Cuiaba
+05-10-2022,RB Bragantino,2 - 1,Cuiaba
+08-10-2022,Cuiaba,1 - 2,Flamengo RJ
+16-10-2022,Ceará SC,1 - 1,Cuiaba
+23-10-2022,Cuiaba,1 - 2,Goiás EC
+27-10-2022,Cuiaba,1 - 0,Avai
+01-11-2022,Botafogo FR,0 - 2,Cuiaba
+06-11-2022,Cuiaba,1 - 1,SE Palmeiras
+10-11-2022,Atletico Mineiro,3 - 0,Cuiaba
+13-11-2022,Cuiaba,2 - 1,Coritiba FBC
+09-04-2022,AC Goianiense,1 - 1,Flamengo RJ
+17-04-2022,Flamengo RJ,3 - 1,Sao Paulo
+20-04-2022,Flamengo RJ,0 - 0,SE Palmeiras
+23-04-2022,CA Paranaense,1 - 0,Flamengo RJ
+08-05-2022,Flamengo RJ,0 - 1,Botafogo FR
+14-05-2022,Ceará SC,2 - 2,Flamengo RJ
+21-05-2022,Flamengo RJ,1 - 0,Goiás EC
+29-05-2022,Fluminense FC,1 - 2,Flamengo RJ
+05-06-2022,Flamengo RJ,1 - 2,Fortaleza EC
+08-06-2022,RB Bragantino,1 - 0,Flamengo RJ
+12-06-2022,Internacional RS,3 - 1,Flamengo RJ
+15-06-2022,Flamengo RJ,2 - 0,Cuiaba
+19-06-2022,Atletico Mineiro,2 - 0,Flamengo RJ
+25-06-2022,Flamengo RJ,3 - 0,America Mineiro
+02-07-2022,Santos,1 - 2,Flamengo RJ
+10-07-2022,Corinthians,1 - 0,Flamengo RJ
+16-07-2022,Flamengo RJ,2 - 0,Coritiba FBC
+20-07-2022,Flamengo RJ,4 - 0,Juventude
+24-07-2022,Avai,1 - 2,Flamengo RJ
+30-07-2022,Flamengo RJ,4 - 1,AC Goianiense
+06-08-2022,Sao Paulo,0 - 2,Flamengo RJ
+14-08-2022,Flamengo RJ,5 - 0,CA Paranaense
+21-08-2022,SE Palmeiras,1 - 1,Flamengo RJ
+28-08-2022,Botafogo FR,0 - 1,Flamengo RJ
+04-09-2022,Flamengo RJ,1 - 1,Ceará SC
+11-09-2022,Goiás EC,1 - 1,Flamengo RJ
+18-09-2022,Flamengo RJ,1 - 2,Fluminense FC
+28-09-2022,Fortaleza EC,3 - 2,Flamengo RJ
+01-10-2022,Flamengo RJ,4 - 1,RB Bragantino
+06-10-2022,Flamengo RJ,0 - 0,Internacional RS
+08-10-2022,Cuiaba,1 - 2,Flamengo RJ
+15-10-2022,Flamengo RJ,1 - 0,Atletico Mineiro
+22-10-2022,America Mineiro,1 - 2,Flamengo RJ
+26-10-2022,Flamengo RJ,3 - 2,Santos
+03-11-2022,Flamengo RJ,1 - 2,Corinthians
+06-11-2022,Coritiba FBC,1 - 0,Flamengo RJ
+10-11-2022,Juventude,2 - 2,Flamengo RJ
+12-11-2022,Flamengo RJ,1 - 2,Avai
+09-04-2022,Fluminense FC,0 - 0,Santos
+17-04-2022,Cuiaba,0 - 1,Fluminense FC
+23-04-2022,Fluminense FC,0 - 1,Internacional RS
+01-05-2022,Coritiba FBC,3 - 2,Fluminense FC
+08-05-2022,SE Palmeiras,1 - 1,Fluminense FC
+15-05-2022,Fluminense FC,2 - 1,CA Paranaense
+22-05-2022,Fortaleza EC,0 - 1,Fluminense FC
+29-05-2022,Fluminense FC,1 - 2,Flamengo RJ
+05-06-2022,Juventude,1 - 0,Fluminense FC
+09-06-2022,Fluminense FC,5 - 3,Atletico Mineiro
+11-06-2022,Fluminense FC,0 - 2,AC Goianiense
+16-06-2022,America Mineiro,0 - 0,Fluminense FC
+19-06-2022,Fluminense FC,2 - 0,Avai
+26-06-2022,Botafogo FR,0 - 1,Fluminense FC
+02-07-2022,Fluminense FC,4 - 0,Corinthians
+09-07-2022,Fluminense FC,2 - 1,Ceará SC
+17-07-2022,Sao Paulo,2 - 2,Fluminense FC
+20-07-2022,Goiás EC,2 - 3,Fluminense FC
+24-07-2022,Fluminense FC,2 - 1,RB Bragantino
+01-08-2022,Santos,2 - 2,Fluminense FC
+07-08-2022,Fluminense FC,1 - 0,Cuiaba
+14-08-2022,Internacional RS,3 - 0,Fluminense FC
+20-08-2022,Fluminense FC,5 - 2,Coritiba FBC
+27-08-2022,Fluminense FC,1 - 1,SE Palmeiras
+03-09-2022,CA Paranaense,1 - 0,Fluminense FC
+10-09-2022,Fluminense FC,2 - 1,Fortaleza EC
+18-09-2022,Flamengo RJ,1 - 2,Fluminense FC
+28-09-2022,Fluminense FC,4 - 0,Juventude
+01-10-2022,Atletico Mineiro,2 - 0,Fluminense FC
+05-10-2022,AC Goianiense,3 - 2,Fluminense FC
+09-10-2022,Fluminense FC,0 - 2,America Mineiro
+16-10-2022,Avai,0 - 3,Fluminense FC
+23-10-2022,Fluminense FC,2 - 2,Botafogo FR
+27-10-2022,Corinthians,0 - 2,Fluminense FC
+31-10-2022,Ceará SC,0 - 1,Fluminense FC
+05-11-2022,Fluminense FC,3 - 1,Sao Paulo
+09-11-2022,Fluminense FC,3 - 0,Goiás EC
+13-11-2022,RB Bragantino,0 - 1,Fluminense FC
+10-04-2022,Fortaleza EC,0 - 1,Cuiaba
+17-04-2022,Internacional RS,2 - 1,Fortaleza EC
+01-05-2022,Corinthians,1 - 0,Fortaleza EC
+08-05-2022,Fortaleza EC,1 - 1,Sao Paulo
+15-05-2022,Botafogo FR,3 - 1,Fortaleza EC
+22-05-2022,Fortaleza EC,0 - 1,Fluminense FC
+28-05-2022,Fortaleza EC,1 - 1,Juventude
+01-06-2022,Fortaleza EC,0 - 1,Ceará SC
+05-06-2022,Flamengo RJ,1 - 2,Fortaleza EC
+09-06-2022,Fortaleza EC,1 - 1,Goiás EC
+12-06-2022,Fortaleza EC,0 - 0,CA Paranaense
+16-06-2022,Avai,3 - 2,Fortaleza EC
+19-06-2022,Fortaleza EC,1 - 0,America Mineiro
+26-06-2022,Atletico Mineiro,3 - 2,Fortaleza EC
+03-07-2022,Coritiba FBC,2 - 1,Fortaleza EC
+10-07-2022,Fortaleza EC,0 - 0,SE Palmeiras
+17-07-2022,AC Goianiense,0 - 1,Fortaleza EC
+20-07-2022,RB Bragantino,2 - 1,Fortaleza EC
+24-07-2022,Fortaleza EC,0 - 0,Santos
+31-07-2022,Cuiaba,0 - 1,Fortaleza EC
+07-08-2022,Fortaleza EC,3 - 0,Internacional RS
+14-08-2022,Ceará SC,0 - 1,Fortaleza EC
+21-08-2022,Fortaleza EC,1 - 0,Corinthians
+28-08-2022,Sao Paulo,0 - 1,Fortaleza EC
+04-09-2022,Fortaleza EC,1 - 3,Botafogo FR
+10-09-2022,Fluminense FC,2 - 1,Fortaleza EC
+18-09-2022,Juventude,1 - 1,Fortaleza EC
+28-09-2022,Fortaleza EC,3 - 2,Flamengo RJ
+01-10-2022,Goiás EC,0 - 1,Fortaleza EC
+05-10-2022,CA Paranaense,1 - 1,Fortaleza EC
+09-10-2022,Fortaleza EC,2 - 0,Avai
+15-10-2022,America Mineiro,1 - 2,Fortaleza EC
+24-10-2022,Fortaleza EC,0 - 0,Atletico Mineiro
+27-10-2022,Fortaleza EC,3 - 1,Coritiba FBC
+03-11-2022,SE Palmeiras,4 - 0,Fortaleza EC
+06-11-2022,Fortaleza EC,1 - 1,AC Goianiense
+09-11-2022,Fortaleza EC,6 - 0,RB Bragantino
+13-11-2022,Santos,0 - 2,Fortaleza EC
+10-04-2022,Coritiba FBC,3 - 0,Goiás EC
+16-04-2022,Goiás EC,1 - 1,SE Palmeiras
+25-04-2022,Avai,3 - 2,Goiás EC
+30-04-2022,Goiás EC,2 - 2,Atletico Mineiro
+08-05-2022,AC Goianiense,0 - 1,Goiás EC
+15-05-2022,Goiás EC,1 - 0,Santos
+21-05-2022,Flamengo RJ,1 - 0,Goiás EC
+28-05-2022,Goiás EC,1 - 1,RB Bragantino
+06-06-2022,Botafogo FR,1 - 2,Goiás EC
+09-06-2022,Fortaleza EC,1 - 1,Goiás EC
+12-06-2022,Goiás EC,1 - 1,Ceará SC
+15-06-2022,Goiás EC,1 - 2,Internacional RS
+19-06-2022,Corinthians,1 - 0,Goiás EC
+26-06-2022,Goiás EC,1 - 0,Cuiaba
+03-07-2022,America Mineiro,1 - 0,Goiás EC
+09-07-2022,Goiás EC,2 - 1,CA Paranaense
+17-07-2022,Juventude,0 - 0,Goiás EC
+20-07-2022,Goiás EC,2 - 3,Fluminense FC
+23-07-2022,Sao Paulo,3 - 3,Goiás EC
+30-07-2022,Goiás EC,1 - 0,Coritiba FBC
+07-08-2022,SE Palmeiras,3 - 0,Goiás EC
+13-08-2022,Goiás EC,1 - 1,Avai
+20-08-2022,Atletico Mineiro,0 - 1,Goiás EC
+27-08-2022,Goiás EC,2 - 1,AC Goianiense
+05-09-2022,Santos,1 - 2,Goiás EC
+11-09-2022,Goiás EC,1 - 1,Flamengo RJ
+18-09-2022,RB Bragantino,1 - 1,Goiás EC
+29-09-2022,Goiás EC,0 - 1,Botafogo FR
+01-10-2022,Goiás EC,0 - 1,Fortaleza EC
+05-10-2022,Ceará SC,1 - 1,Goiás EC
+09-10-2022,Internacional RS,4 - 2,Goiás EC
+23-10-2022,Cuiaba,1 - 2,Goiás EC
+27-10-2022,Goiás EC,2 - 2,America Mineiro
+29-10-2022,Goiás EC,0 - 0,Corinthians
+02-11-2022,CA Paranaense,3 - 2,Goiás EC
+05-11-2022,Goiás EC,1 - 0,Juventude
+09-11-2022,Fluminense FC,3 - 0,Goiás EC
+13-11-2022,Goiás EC,0 - 4,Sao Paulo
+10-04-2022,Atletico Mineiro,2 - 0,Internacional RS
+17-04-2022,Internacional RS,2 - 1,Fortaleza EC
+23-04-2022,Fluminense FC,0 - 1,Internacional RS
+01-05-2022,Internacional RS,0 - 0,Avai
+08-05-2022,Juventude,1 - 1,Internacional RS
+14-05-2022,Internacional RS,2 - 2,Corinthians
+22-05-2022,Cuiaba,1 - 1,Internacional RS
+30-05-2022,Internacional RS,1 - 1,AC Goianiense
+05-06-2022,RB Bragantino,0 - 2,Internacional RS
+09-06-2022,Santos,1 - 1,Internacional RS
+12-06-2022,Internacional RS,3 - 1,Flamengo RJ
+15-06-2022,Goiás EC,1 - 2,Internacional RS
+19-06-2022,Internacional RS,2 - 3,Botafogo FR
+25-06-2022,Internacional RS,3 - 0,Coritiba FBC
+02-07-2022,Ceará SC,1 - 1,Internacional RS
+11-07-2022,Internacional RS,1 - 0,America Mineiro
+16-07-2022,CA Paranaense,0 - 0,Internacional RS
+20-07-2022,Internacional RS,3 - 3,Sao Paulo
+24-07-2022,SE Palmeiras,2 - 1,Internacional RS
+31-07-2022,Internacional RS,3 - 0,Atletico Mineiro
+07-08-2022,Fortaleza EC,3 - 0,Internacional RS
+14-08-2022,Internacional RS,3 - 0,Fluminense FC
+22-08-2022,Avai,0 - 1,Internacional RS
+29-08-2022,Internacional RS,4 - 0,Juventude
+04-09-2022,Corinthians,2 - 2,Internacional RS
+10-09-2022,Internacional RS,1 - 0,Cuiaba
+19-09-2022,AC Goianiense,1 - 2,Internacional RS
+29-09-2022,Internacional RS,0 - 0,RB Bragantino
+01-10-2022,Internacional RS,1 - 0,Santos
+06-10-2022,Flamengo RJ,0 - 0,Internacional RS
+09-10-2022,Internacional RS,4 - 2,Goiás EC
+16-10-2022,Botafogo FR,0 - 1,Internacional RS
+23-10-2022,Coritiba FBC,1 - 1,Internacional RS
+27-10-2022,Internacional RS,2 - 1,Ceará SC
+02-11-2022,America Mineiro,1 - 0,Internacional RS
+06-11-2022,Internacional RS,2 - 0,CA Paranaense
+09-11-2022,Sao Paulo,0 - 1,Internacional RS
+13-11-2022,Internacional RS,3 - 0,SE Palmeiras
+11-04-2022,Juventude,2 - 2,RB Bragantino
+16-04-2022,America Mineiro,4 - 1,Juventude
+24-04-2022,Juventude,0 - 1,Cuiaba
+01-05-2022,Botafogo FR,1 - 1,Juventude
+08-05-2022,Juventude,1 - 1,Internacional RS
+15-05-2022,Avai,1 - 2,Juventude
+21-05-2022,Juventude,0 - 3,SE Palmeiras
+28-05-2022,Fortaleza EC,1 - 1,Juventude
+05-06-2022,Juventude,1 - 0,Fluminense FC
+08-06-2022,Juventude,1 - 3,CA Paranaense
+11-06-2022,Corinthians,2 - 0,Juventude
+15-06-2022,Juventude,1 - 2,Santos
+19-06-2022,AC Goianiense,3 - 1,Juventude
+26-06-2022,Sao Paulo,0 - 0,Juventude
+02-07-2022,Juventude,1 - 2,Atletico Mineiro
+10-07-2022,Coritiba FBC,2 - 2,Juventude
+17-07-2022,Juventude,0 - 0,Goiás EC
+20-07-2022,Flamengo RJ,4 - 0,Juventude
+24-07-2022,Juventude,1 - 0,Ceará SC
+31-07-2022,RB Bragantino,1 - 0,Juventude
+06-08-2022,Juventude,0 - 1,America Mineiro
+13-08-2022,Cuiaba,1 - 0,Juventude
+21-08-2022,Juventude,2 - 2,Botafogo FR
+29-08-2022,Internacional RS,4 - 0,Juventude
+03-09-2022,Juventude,1 - 1,Avai
+11-09-2022,SE Palmeiras,2 - 1,Juventude
+18-09-2022,Juventude,1 - 1,Fortaleza EC
+28-09-2022,Fluminense FC,4 - 0,Juventude
+01-10-2022,CA Paranaense,2 - 0,Juventude
+05-10-2022,Juventude,2 - 2,Corinthians
+10-10-2022,Santos,4 - 1,Juventude
+16-10-2022,Juventude,1 - 1,AC Goianiense
+23-10-2022,Juventude,1 - 2,Sao Paulo
+27-10-2022,Atletico Mineiro,1 - 0,Juventude
+02-11-2022,Juventude,0 - 1,Coritiba FBC
+05-11-2022,Goiás EC,1 - 0,Juventude
+10-11-2022,Juventude,2 - 2,Flamengo RJ
+13-11-2022,Ceará SC,4 - 1,Juventude
+11-04-2022,Juventude,2 - 2,RB Bragantino
+17-04-2022,RB Bragantino,4 - 0,AC Goianiense
+23-04-2022,RB Bragantino,1 - 1,Sao Paulo
+30-04-2022,Ceará SC,0 - 1,RB Bragantino
+08-05-2022,RB Bragantino,0 - 1,Corinthians
+11-05-2022,RB Bragantino,1 - 1,Atletico Mineiro
+14-05-2022,SE Palmeiras,2 - 0,RB Bragantino
+28-05-2022,Goiás EC,1 - 1,RB Bragantino
+05-06-2022,RB Bragantino,0 - 2,Internacional RS
+08-06-2022,RB Bragantino,1 - 0,Flamengo RJ
+11-06-2022,Cuiaba,1 - 1,RB Bragantino
+15-06-2022,RB Bragantino,4 - 2,Coritiba FBC
+19-06-2022,Santos,2 - 2,RB Bragantino
+25-06-2022,CA Paranaense,4 - 2,RB Bragantino
+04-07-2022,RB Bragantino,0 - 1,Botafogo FR
+09-07-2022,RB Bragantino,4 - 0,Avai
+17-07-2022,America Mineiro,0 - 3,RB Bragantino
+20-07-2022,RB Bragantino,2 - 1,Fortaleza EC
+24-07-2022,Fluminense FC,2 - 1,RB Bragantino
+31-07-2022,RB Bragantino,1 - 0,Juventude
+06-08-2022,AC Goianiense,2 - 1,RB Bragantino
+14-08-2022,Sao Paulo,3 - 0,RB Bragantino
+21-08-2022,RB Bragantino,1 - 1,Ceará SC
+30-08-2022,Corinthians,1 - 0,RB Bragantino
+03-09-2022,RB Bragantino,2 - 2,SE Palmeiras
+07-09-2022,Atletico Mineiro,1 - 1,RB Bragantino
+18-09-2022,RB Bragantino,1 - 1,Goiás EC
+29-09-2022,Internacional RS,0 - 0,RB Bragantino
+01-10-2022,Flamengo RJ,4 - 1,RB Bragantino
+05-10-2022,RB Bragantino,2 - 1,Cuiaba
+09-10-2022,Coritiba FBC,2 - 1,RB Bragantino
+17-10-2022,RB Bragantino,0 - 2,Santos
+22-10-2022,RB Bragantino,4 - 2,CA Paranaense
+26-10-2022,Botafogo FR,2 - 1,RB Bragantino
+02-11-2022,Avai,1 - 2,RB Bragantino
+05-11-2022,RB Bragantino,1 - 4,America Mineiro
+09-11-2022,Fortaleza EC,6 - 0,RB Bragantino
+13-11-2022,RB Bragantino,0 - 1,Fluminense FC
+10-04-2022,SE Palmeiras,2 - 3,Ceará SC
+16-04-2022,Goiás EC,1 - 1,SE Palmeiras
+20-04-2022,Flamengo RJ,0 - 0,SE Palmeiras
+23-04-2022,SE Palmeiras,3 - 0,Corinthians
+08-05-2022,SE Palmeiras,1 - 1,Fluminense FC
+14-05-2022,SE Palmeiras,2 - 0,RB Bragantino
+21-05-2022,Juventude,0 - 3,SE Palmeiras
+29-05-2022,Santos,0 - 1,SE Palmeiras
+05-06-2022,SE Palmeiras,0 - 0,Atletico Mineiro
+09-06-2022,SE Palmeiras,4 - 0,Botafogo FR
+12-06-2022,Coritiba FBC,0 - 2,SE Palmeiras
+16-06-2022,SE Palmeiras,4 - 2,AC Goianiense
+20-06-2022,Sao Paulo,1 - 2,SE Palmeiras
+26-06-2022,Avai,2 - 2,SE Palmeiras
+03-07-2022,SE Palmeiras,0 - 2,CA Paranaense
+10-07-2022,Fortaleza EC,0 - 0,SE Palmeiras
+18-07-2022,SE Palmeiras,1 - 0,Cuiaba
+21-07-2022,America Mineiro,0 - 1,SE Palmeiras
+24-07-2022,SE Palmeiras,2 - 1,Internacional RS
+30-07-2022,Ceará SC,1 - 2,SE Palmeiras
+07-08-2022,SE Palmeiras,3 - 0,Goiás EC
+13-08-2022,Corinthians,0 - 1,SE Palmeiras
+21-08-2022,SE Palmeiras,1 - 1,Flamengo RJ
+27-08-2022,Fluminense FC,1 - 1,SE Palmeiras
+03-09-2022,RB Bragantino,2 - 2,SE Palmeiras
+11-09-2022,SE Palmeiras,2 - 1,Juventude
+18-09-2022,SE Palmeiras,1 - 0,Santos
+29-09-2022,Atletico Mineiro,0 - 1,SE Palmeiras
+03-10-2022,Botafogo FR,1 - 3,SE Palmeiras
+06-10-2022,SE Palmeiras,4 - 0,Coritiba FBC
+10-10-2022,AC Goianiense,1 - 1,SE Palmeiras
+16-10-2022,SE Palmeiras,0 - 0,Sao Paulo
+23-10-2022,SE Palmeiras,3 - 0,Avai
+26-10-2022,CA Paranaense,1 - 3,SE Palmeiras
+03-11-2022,SE Palmeiras,4 - 0,Fortaleza EC
+06-11-2022,Cuiaba,1 - 1,SE Palmeiras
+10-11-2022,SE Palmeiras,2 - 1,America Mineiro
+13-11-2022,Internacional RS,3 - 0,SE Palmeiras
+09-04-2022,Fluminense FC,0 - 0,Santos
+17-04-2022,Santos,2 - 1,Coritiba FBC
+24-04-2022,Santos,3 - 0,America Mineiro
+02-05-2022,Sao Paulo,2 - 1,Santos
+08-05-2022,Santos,4 - 1,Cuiaba
+15-05-2022,Goiás EC,1 - 0,Santos
+21-05-2022,Santos,0 - 0,Ceará SC
+29-05-2022,Santos,0 - 1,SE Palmeiras
+04-06-2022,CA Paranaense,2 - 2,Santos
+09-06-2022,Santos,1 - 1,Internacional RS
+11-06-2022,Atletico Mineiro,1 - 1,Santos
+15-06-2022,Juventude,1 - 2,Santos
+19-06-2022,Santos,2 - 2,RB Bragantino
+25-06-2022,Corinthians,0 - 0,Santos
+02-07-2022,Santos,1 - 2,Flamengo RJ
+10-07-2022,Santos,1 - 0,AC Goianiense
+16-07-2022,Avai,1 - 0,Santos
+21-07-2022,Santos,2 - 0,Botafogo FR
+24-07-2022,Fortaleza EC,0 - 0,Santos
+01-08-2022,Santos,2 - 2,Fluminense FC
+08-08-2022,Coritiba FBC,1 - 2,Santos
+14-08-2022,America Mineiro,1 - 0,Santos
+21-08-2022,Santos,1 - 0,Sao Paulo
+28-08-2022,Cuiaba,0 - 0,Santos
+05-09-2022,Santos,1 - 2,Goiás EC
+10-09-2022,Ceará SC,2 - 1,Santos
+18-09-2022,SE Palmeiras,1 - 0,Santos
+28-09-2022,Santos,2 - 0,CA Paranaense
+01-10-2022,Internacional RS,1 - 0,Santos
+06-10-2022,Santos,1 - 2,Atletico Mineiro
+10-10-2022,Santos,4 - 1,Juventude
+17-10-2022,RB Bragantino,0 - 2,Santos
+22-10-2022,Santos,0 - 1,Corinthians
+26-10-2022,Flamengo RJ,3 - 2,Santos
+02-11-2022,AC Goianiense,2 - 3,Santos
+05-11-2022,Santos,1 - 1,Avai
+10-11-2022,Botafogo FR,3 - 0,Santos
+13-11-2022,Santos,0 - 2,Fortaleza EC
+10-04-2022,Sao Paulo,4 - 0,CA Paranaense
+17-04-2022,Flamengo RJ,3 - 1,Sao Paulo
+23-04-2022,RB Bragantino,1 - 1,Sao Paulo
+02-05-2022,Sao Paulo,2 - 1,Santos
+08-05-2022,Fortaleza EC,1 - 1,Sao Paulo
+15-05-2022,Sao Paulo,2 - 1,Cuiaba
+22-05-2022,Corinthians,1 - 1,Sao Paulo
+28-05-2022,Sao Paulo,2 - 2,Ceará SC
+04-06-2022,Avai,1 - 1,Sao Paulo
+09-06-2022,Coritiba FBC,1 - 1,Sao Paulo
+12-06-2022,Sao Paulo,1 - 0,America Mineiro
+16-06-2022,Botafogo FR,1 - 0,Sao Paulo
+20-06-2022,Sao Paulo,1 - 2,SE Palmeiras
+26-06-2022,Sao Paulo,0 - 0,Juventude
+03-07-2022,AC Goianiense,1 - 2,Sao Paulo
+10-07-2022,Atletico Mineiro,0 - 0,Sao Paulo
+17-07-2022,Sao Paulo,2 - 2,Fluminense FC
+20-07-2022,Internacional RS,3 - 3,Sao Paulo
+23-07-2022,Sao Paulo,3 - 3,Goiás EC
+31-07-2022,CA Paranaense,1 - 0,Sao Paulo
+06-08-2022,Sao Paulo,0 - 2,Flamengo RJ
+14-08-2022,Sao Paulo,3 - 0,RB Bragantino
+21-08-2022,Santos,1 - 0,Sao Paulo
+28-08-2022,Sao Paulo,0 - 1,Fortaleza EC
+04-09-2022,Cuiaba,1 - 1,Sao Paulo
+11-09-2022,Sao Paulo,1 - 1,Corinthians
+18-09-2022,Ceará SC,0 - 2,Sao Paulo
+25-09-2022,Sao Paulo,4 - 0,Avai
+06-10-2022,America Mineiro,1 - 2,Sao Paulo
+09-10-2022,Sao Paulo,0 - 1,Botafogo FR
+16-10-2022,SE Palmeiras,0 - 0,Sao Paulo
+20-10-2022,Sao Paulo,3 - 1,Coritiba FBC
+23-10-2022,Juventude,1 - 2,Sao Paulo
+27-10-2022,Sao Paulo,2 - 1,AC Goianiense
+02-11-2022,Sao Paulo,2 - 2,Atletico Mineiro
+05-11-2022,Fluminense FC,3 - 1,Sao Paulo
+09-11-2022,Sao Paulo,0 - 1,Internacional RS
+13-11-2022,Goiás EC,0 - 4,Sao Paulo
